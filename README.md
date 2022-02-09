@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+# 👋 Hi there I’m working on collaborating with artists on launching NFT projects.
+###### 💻 I’m currently learning Web 3.0 stuff here 👉 https://www.learnweb3.io/
+###### 🗂️ You can learn more about me here 👉 https://dionyc.github.io/
 
 <!--
 **dionyc/dionyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
