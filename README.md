@@ -1,7 +1,7 @@
 
 
-# 👋 Hi there I’m working on collaborating with artists on launching NFT projects.
-###### 💻 I’m currently learning Web 3.0 stuff here 👉 https://www.learnweb3.io/
+# 👋 Hi there I’m working on helping artists, small businesses and non-profits on technology including Salesforce and AI solutions.
+###### 💻 I’m currently working on custom Salesforce solutinos and AI.
 ###### 🗂️ You can learn more about me here 👉 https://dionyc.github.io/
 
 <!--
