@@ -1,7 +1,7 @@
 
 
 # 👋 Hi there I’m working on helping artists, small businesses and non-profits on technology including Salesforce and AI solutions.
-###### 💻 I’m currently working on custom Salesforce solutinos and AI.
+###### 💻 I’m currently working on custom Salesforce solutions and AI.
 ###### 🗂️ You can learn more about me here 👉 https://dionyc.github.io/
 
 <!--
